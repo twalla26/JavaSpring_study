@@ -1,4 +1,4 @@
-package note;
+package jump2java;
 import java.util.ArrayList;
 
 public class ControlStatement {

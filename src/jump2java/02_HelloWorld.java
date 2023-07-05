@@ -1,4 +1,4 @@
-package note;
+package jump2java;
 
 public class HelloWorld {
     // class 앞의 public: 파일명과 클래스명이 같을 때 public을 명시해야 함.

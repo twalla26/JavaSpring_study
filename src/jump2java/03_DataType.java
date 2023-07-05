@@ -1,4 +1,4 @@
-package note;
+package jump2java;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.HashMap;

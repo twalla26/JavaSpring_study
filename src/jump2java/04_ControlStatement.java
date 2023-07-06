@@ -1,7 +1,7 @@
 package jump2java;
 import java.util.ArrayList;
 
-public class ControlStatement {
+class ControlStatement {
 
     // if문
     public class Sample {

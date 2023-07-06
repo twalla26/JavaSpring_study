@@ -1,6 +1,6 @@
 package jump2java;
 
-public class HelloWorld {
+class HelloWorld {
     // class 앞의 public: 파일명과 클래스명이 같을 때 public을 명시해야 함.
     // 자바는 모든 것이 클래스 기반이므로 모든 함수는 메서드임.
     public static void main(String[] args) {

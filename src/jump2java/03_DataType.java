@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class DataType {
+class DataType {
     // Number
     int age = 22;
     long countOfStar = 8764827384923849L;
